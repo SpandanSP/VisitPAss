@@ -1,5 +1,5 @@
 # VisitPass
-Visitor's Pass Generator / Keeping track of all Visitors.
+Visitor's Pass is a web based app which Keeps track of all visitors as well as security guard log's.
 
 # Technology Used
 
